@@ -1,0 +1,32 @@
+_repo: The-Intelligence-of-Woman_32479
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: George, Walter Lionel
+    alias: George, W. L. (Walter Lionel)
+    birthdate: 1882
+    deathdate: 1926
+    gutenberg_agent_id: '35870'
+    url: http://www.gutenberg.org/2009/agents/35870
+    wikipedia: http://en.wikipedia.org/wiki/W._L._George
+description: ''
+gutenberg_issued: '2010-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32479'
+  lccn: '16023071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+tableOfContents: The intelligence of woman -- Feminist intentions -- Uniforms for
+  women -- Woman and the paint pot -- The downfall of the home -- The break-up of
+  the family -- Some notes on marriage.
+title: The Intelligence of Woman
+url: http://www.gutenberg.org/ebooks/32479
